@@ -7,4 +7,4 @@
 ## 用到的技术
 
 - tp6
-- materialize
+- materialize http://www.materializecss.cn/collections.html

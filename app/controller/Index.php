@@ -10,8 +10,7 @@ class Index extends BaseController
         return view();
     }
 
-    public function hello($name = 'ThinkPHP6')
-    {
-        return 'hello,' . $name;
+    public function doc($path, $view = '', $model = ''){
+
     }
 }
